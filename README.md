@@ -22,9 +22,10 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   
   </p>
  <h3 align="left">Languages in progress:</h3>
- <p align="left"> Loading </p>
+ 
+ <p><img align ="top" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Loading_Animation.gif" alt="loading" width="120" height="40"/></p>
   
-
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit-hub&show_icons=true&locale=en&layout=compact" alt="amrithub" /></div>
 
 <!--
 **Amrit-Hub/Amrit-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
