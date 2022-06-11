@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Amrit</h1>
-<h3 align="left">Structural Analyst || Automation Engineer || Aspiring Data Scientist || Machine Learning Enthusiast.</h3>
+<h3 align="left">Structural Data Analyst || Automation Engineer || Aspiring Data Scientist || Machine Learning Enthusiast.</h3>
 
 - 🔭 I automate **Ansys** using **ACT & JavaScript.**
 
