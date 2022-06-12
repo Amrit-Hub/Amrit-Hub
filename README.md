@@ -5,7 +5,7 @@
 
 - 👨‍💻 I use Python, .NET Framework, JavaScript for my automation stuffs.
 
-- 🌱 I’m currently learning **Ansys Data Processing Framework** (DPF).
+- 🌱 I analyze Ansys result **Ansys Data Processing Framework** (DPF) via.
 
 - 💬 Ask me about **Ansys Customization.**
 
