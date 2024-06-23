@@ -3,13 +3,9 @@
 
 - 😇 I'm a Data Engineer building pipelines to work on large datasets.
 
-- 🔭 I automate **Ansys** using **ACT & JavaScript.**
+- 🔭 I automate **Ansys** using **ACT Python & JavaScript.**
 
 - 👨‍💻 I use Python, .NET Framework, JavaScript for my automation stuffs.
-
-- 🌱 I visualize Ansys result using **Flask and Ansys Data Processing Framework** (DPF).
-
-- 💬 Ask me about **Ansys Customization.**
 
 <!--
 **Amrit-Hub/Amrit-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
